@@ -4,7 +4,7 @@
 
 ## Technologies Used 
 - HTML 
-- CSS adapted for responsive.
+- CSS
 
 ### Link to the challenge.
 <p>
